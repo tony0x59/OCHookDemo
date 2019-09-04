@@ -1,0 +1,24 @@
+PODS:
+  - fishhook (0.2)
+  - InspectiveC (0.0.1):
+    - fishhook
+
+DEPENDENCIES:
+  - fishhook
+  - InspectiveC (from `InspectiveC/`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - fishhook
+
+EXTERNAL SOURCES:
+  InspectiveC:
+    :path: InspectiveC/
+
+SPEC CHECKSUMS:
+  fishhook: ea19933abfe8f2f52c55fd8b6e2718467d3ebc89
+  InspectiveC: 1c29775805be678ed815bc47e7f2aebc9a55e731
+
+PODFILE CHECKSUM: 6ca7152ce31d771beb6a8abe24a5bf18e3991871
+
+COCOAPODS: 1.7.5
